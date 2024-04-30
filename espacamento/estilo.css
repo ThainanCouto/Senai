@@ -1,0 +1,23 @@
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.black{
+    width: 400px;
+    height: 400px;
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+    margin: 30px;
+}
+
+.white{
+    width: 400px;
+    height: 400px;
+    color: #333;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid #000;
+}
