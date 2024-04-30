@@ -28,4 +28,7 @@
     .container{
         flex-direction: column; /* Direção dos conteudos do display: flex */
     }
+    .black, .white{
+        width: 100%;
+    }
 }
