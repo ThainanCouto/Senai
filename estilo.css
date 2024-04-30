@@ -5,7 +5,7 @@ h2{
 .botao{
     max-width: 768px; /* Largura maxima */
     background-color: brown; /* Cor de fundo */
-    margin: 0 auto; /* 0 -> Altura | auto -> largura */
+    margin: 15px auto; /* 0 -> Altura | auto -> largura */
     display: block; /* Converter tag de texto em estrutura de div */
     color: white;
     text-decoration: none;
